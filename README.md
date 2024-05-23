@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedr0S0ares
-- 👀 I’m interested in Automation and Astronomy;
-- 🌱 I’m currently learning Automation;
+- 👀 I’m interested in Automation and Cyber Security;
+- 🌱 I’m currently learning Cyber Security;
 - 📫 How to reach me: send a email 
 - ⚡ Fun fact: I'm tall and I'm afraid of heights
 
